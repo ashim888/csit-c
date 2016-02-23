@@ -1,4 +1,5 @@
-###Course Title: Fundamentals of Computer Programming###
+Course Title: Fundamentals of Computer Programming
+========================================================
         Fundamentals of Computer Programming (CSC-102)
  
         Tribhuvan University
