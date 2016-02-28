@@ -3,18 +3,38 @@ Course Title: Fundamentals of Computer Programming
 ```
 1. Write a Program in C to print the Hello World.
 ```
+```
 2. Write a Program in C to input any two numbers and find their Sum, difference, Multiplication, Division, and
 remainder.
 ```
+```
 3. Write a program in c to calculate the simple Interest.
+```
+```
 4. Write a program in C to calculate the area of Square, Triangle, and circle.
+```
+```
 5. Write a program in C to find the greater and smaller number between two numbers.
+```
+```
 6. Write a Program in C to find the greater and smaller number among three numbers provided by the user.
+```
+```
 7. Write a program in C to input a number and check whether the number is positive or not.
+```
+```
 8. Write a program in C to input a number and check whether the number is Odd or Even.
+```
+```
 9. Write a program in C to input a number and check whether the number is exactly divisible by 3 or not.
+```
+```
 10. Write a program in C to input a number and check whether the number is exactly divisible by 3 and 5 or not.
+```
+```
 11. Write a program in C to input a number and check whether the number is exactly divisible by 6 but not 8.
+```
+
 12. Write a program in C to print all the number between 20 and 50 which are exactly divisible by 7.
 13. Write a program in C to print your name 20 Times.(using for, while, and do while loop)
 14. Write a program in C to print the natural number from 1 to 50.( using all three loops)
