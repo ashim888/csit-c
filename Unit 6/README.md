@@ -23,14 +23,14 @@ UNIT 6
 7.	WAP in C to input 10 numbers and find out even and odd. After finding, please do add odd numbers only and even numbers only separately and display it.
 8.	WAP to find transpose of a given Matrix
 9.	WAP in C to take input M*N from user and find a row sum and column sum
-Eg: 
+###Eg: 
 |row |column|sum|
 |----|----|----|
-|2  |	4   | 6	|
-|98 |	88  | 186|
-|100|	92	|	|
+| 2  |	4   | 6	|
+| 98 |	88  | 186 |
+| 100 |	92	|	|
 
-###Course Contents:
+###Eg:
 | row   |  colum  | sum   |
 |----|----|----|
 | 2 | 4 | 6 |
