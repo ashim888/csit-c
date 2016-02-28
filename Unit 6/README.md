@@ -34,7 +34,9 @@ UNIT 6
 | row   |  colum  | sum   |
 |----|----|----|
 | 2 | 4 | 6 |
-| 2 | 4 | 6 |
+| 98 | 88 | 186 |
+| 100 | 92 |  |
+
 10.	WAP to find whether the given string is palindrome or not. 
 
 11.	WAP to input a string and convert it into upper case and vice versa. 
