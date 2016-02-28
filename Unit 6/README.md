@@ -31,9 +31,10 @@ Eg:
 |100|	92	|	|
 
 ###Course Contents:
-| Unit   |  Hours  | Description   |
+| row   |  colum  | sum   |
 |----|----|----|
-|1. Problem Solving with Computer |  2 Hrs  |   Problem analysis, Algorithms and Flowchart, Coding, Compilation and Execution, History of C, Structure of C program, Debugging, Testing and Documentation |
+| 2 | 4 | 6 |
+| 2 | 4 | 6 |
 10.	WAP to find whether the given string is palindrome or not. 
 
 11.	WAP to input a string and convert it into upper case and vice versa. 
