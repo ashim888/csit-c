@@ -31,7 +31,7 @@ UNIT 6
 12.	WAP in C to take input M*N from user and find a row sum and column sum
 
 ###Eg:
-
+|    |    |    |
 |----|----|----|
 | 2 | 4 | 6 |
 | 98 | 88 | 186 |
