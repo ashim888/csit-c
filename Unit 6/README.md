@@ -22,20 +22,21 @@ UNIT 6
 
 7.	WAP in C to input 10 numbers and find out even and odd. After finding, please do add odd numbers only and even numbers only separately and display it.
 8.	WAP to find transpose of a given Matrix
-9.	WAP in C to take input M*N from user and find a row sum and column sum
+9.	WAP to find whether the given string is palindrome or not. 
+
+10.	WAP to input a string and convert it into upper case and vice versa. 
+
+11.	Write a program to read a string and search a specified word in given string. (use function strstr() ) 
+
+12.	WAP in C to take input M*N from user and find a row sum and column sum
 
 ###Eg:
-|    |    |    |
+
 |----|----|----|
 | 2 | 4 | 6 |
 | 98 | 88 | 186 |
 | 100 | 92 |  |
 
-10.	WAP to find whether the given string is palindrome or not. 
-
-11.	WAP to input a string and convert it into upper case and vice versa. 
-
-12.	Write a program to read a string and search a specified word in given string. (use function strstr() ) 
 
 
 
