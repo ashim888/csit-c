@@ -2,13 +2,13 @@ ASSIGNMENT
 ========================================================
 ###Functions###
 1. Write a Program in C to input a number and find whether the number is exactly divisible by 5 and 7 or not using functions: 
-a.	No return no argument 
+	+	No return no argument 
 
-b.	No return with argument 
+	+	No return with argument 
 
-c.	Return with no argument 
+	+	Return with no argument 
 
-d.	Return with argument 
+	+	Return with argument 
 
 2.	WAP in C to input a number and check whether the number is palindrome or not using function.
 3.	WAP in C to find whether the given number is prime or not using function
