@@ -1,8 +1,11 @@
 Course Title: Fundamentals of Computer Programming
 ========================================================
+```
 1. Write a Program in C to print the Hello World.
+```
 2. Write a Program in C to input any two numbers and find their Sum, difference, Multiplication, Division, and
 remainder.
+```
 3. Write a program in c to calculate the simple Interest.
 4. Write a program in C to calculate the area of Square, Triangle, and circle.
 5. Write a program in C to find the greater and smaller number between two numbers.
