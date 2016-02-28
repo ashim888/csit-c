@@ -1,10 +1,14 @@
-#include<stdio.h>
+#include <stdio.h>
+#include <conio.h>
+#define m 2
+#define n 2
+int trans[10][10];
 
-int matrix()
+void matrix(void)
 {
-	int mat[10][10], trans[10][10],m,n,i,j;
-	printf("Enter the number of rows and column ");
-	scanf("%d%d",&m,&n);
+	int mat[10][10],i,j;
+	// printf("Enter the number of rows and column ");
+	// scanf("%d%d",&m,&n);
 	for(i=0;i<m;i++)
 	{
 		for(j=0;j<n;j++)
@@ -30,6 +34,12 @@ int matrix()
 			trans[j][i] = mat[i][j];
 		}
 	}
+	// return 0;
+}
+
+int main(void){
+	int i,j;
+	matrix();
 	printf("Transposed matrix is : \n");
 	for(i=0;i<n;i++)
 	{
@@ -39,10 +49,5 @@ int matrix()
 		}
 		printf("\n");
 	}
-	return 0;
-}
-int main(void)
-{
-	matrix();
-
+	getch();
 }

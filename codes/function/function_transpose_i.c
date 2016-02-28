@@ -1,5 +1,5 @@
-#include<stdio.h>
-
+#include <stdio.h>
+#include <conio.h>
 int matrix()
 {
 	int mat[10][10], trans[10][10],m,n,i,j;
@@ -44,5 +44,5 @@ int matrix()
 int main(void)
 {
 	matrix();
-
+	getch();
 }
