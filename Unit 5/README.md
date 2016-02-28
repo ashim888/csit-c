@@ -1,4 +1,4 @@
-Course Title: Fundamentals of Computer Programming
+ASSIGNMENT
 ========================================================
 ```
 1. Write a Program in C to print the Hello World.
@@ -94,5 +94,4 @@ rectangle.
 ```
 ```
 25. Write a program to read the height and base of Triangle and find the area of It.
-```
 ```
