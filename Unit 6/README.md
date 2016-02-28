@@ -11,7 +11,7 @@ UNIT 6
 
 
 
-Practical Assignment
+###Practical Assignment###
 
 1.	WAP a program to read n numbers from user and store in an array and then rearrange the array in the reverse order.
 2.	WAP a program to read n numbers in an array and remove the duplicate numbers from the array.
@@ -24,9 +24,10 @@ Practical Assignment
 8.	WAP to find transpose of a given Matrix
 9.	WAP in C to take input M*N from user and find a row sum and column sum
 Eg: 
+|row |column|sum|
+|----|----|----|
 |2  |	4   | 6	|
 |98 |	88  | 186|
-|---|-------|-----|
 |100|	92	|	|
 10.	WAP to find whether the given string is palindrome or not. 
 
