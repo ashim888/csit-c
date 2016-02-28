@@ -37,6 +37,24 @@ UNIT 6
 | 98 | 88 | 186 |
 | 100 | 92 |  |
 
+###Arrays and Strings:###
+1.	WAP in C to initialize any 10 value in an array and display them. 
+
+2.	WAP to input any 10 number by user and display them. 
+
+3.	WAP in C to input any 10 number in an array and print them along with the Total and 
+average of that numbers. 
+
+4.	WAP in C to input any 10 numbers in an array and count no. of ODD and EVEN and find 
+out their sum and display them. 
+
+5.	WAP in C to input any 10 numbers in an array and search an element. 
+
+6.	WAP to input any 10 numbers in an array and find out the Maximum and Minimum Value.
+7.	WAP to input any 5 elements in an array and print them in reverse order too. 
+![alt text](Unit\ 6/image.png)
+
+
 
 
 
