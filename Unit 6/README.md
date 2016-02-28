@@ -52,7 +52,8 @@ out their sum and display them.
 
 6.	WAP to input any 10 numbers in an array and find out the Maximum and Minimum Value.
 7.	WAP to input any 5 elements in an array and print them in reverse order too. 
-![alt text](Unit\ 6/image.png)
+
+![alt text](https://github.com/ashim888/ccodes/blob/master/Unit%206/image.png)
 
 
 
