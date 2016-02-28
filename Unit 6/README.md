@@ -51,9 +51,49 @@ out their sum and display them.
 5.	WAP in C to input any 10 numbers in an array and search an element. 
 
 6.	WAP to input any 10 numbers in an array and find out the Maximum and Minimum Value.
-7.	WAP to input any 5 elements in an array and print them in reverse order too. 
+7.	WAP in C to convert decimal number to Binary, Octal, and Hexadecimal using array. 
+
+8.	WAP to input any 5 elements in an array and print them in reverse order too. 
 
 ![alt text](https://github.com/ashim888/ccodes/blob/master/Unit%206/image.png)
+
+###Arrays and Strings:
+1.	Write a Program in C to input any 10 elements in an array and display them using function. (Passing individual array element).
+
+2.	Write a program in c to input any 10 number in an array and sort them in ascending order using function. (Pass Whole array). 
+
+3.	Write a program in c to input any 10 number in an array and sort them in descending order using function. (Pass Whole array).
+
+###Character array and String:### 
+1.	WAP to input and output of String using Scanf() and Printf(). 
+
+2.	WAP to input and output of String using gets() and Puts(). 
+
+3.	WAP to input and output of Character array using getchar() and Putchar(). 
+
+4.	WAP to input and string and find out the length of string using strlen() and without 
+using strlen(). 
+
+5.	WAP to copy a string from one to another using strcpy() and without using strcpy(). 
+
+6.	WAP to concatenate two string using strcat() and without using strcat(). 
+
+7.	WAP to compare two string using strcmp() and without using Strcmp(). 
+
+8.	WAP to reverse a string using strrev() and without using strrev(). 
+
+9.	WAP to find whether the given string is palindrome or not. 
+
+10.	WAP to input the name of any five student and sort them alphabetically in ascending 
+order. 
+
+11.	WAP to input a string and convert it into upper case and vice versa. 
+
+12.	WAP to take the string using gets(), and pass to the function to find and return number 
+of words, whitespace in that string. 
+
+13.	Write a program to read a string and search a specified word in given string. 
+
 
 
 
