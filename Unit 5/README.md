@@ -21,6 +21,7 @@ remainder.
 18. Write a program in C to print the odd number from 1 to 100 and their sum.
 19. Write a program in C to input the marks of any five subjects from the user and calculate the total marks,
 Percentage, Division and result. The condition for Division:
+```
 If Percentage >=80
 If Percentage >=60
 If Percentage>=45
@@ -28,7 +29,9 @@ If Percentage>=35
 If Percentage<35
 The Condition for the result:
 If the student pass in all subject( that is all marks >=35 then pass otherwise Fail).
+```
 20. Write a program in C to calculate the bill of the store. Condition:
+```
 No. of Quantity and rate should be provided by the user. And
 If total >=100000
 If total >=50000
@@ -37,6 +40,7 @@ And at last calculate the net total amount.
 Distinction
 first Division Second Division Third Division fail.
 calculate discount =10% Calculate Discount= 5% calculate discount= 2%
+```
 21. Write a program in C to print the multiplication table of the given number using for, While and Do While Loop.
 22. Write a menu driven program to print the name of the days using if else if conditional statement. [e.g. if the user press 1 – print Sunday].
 23. Write a program in C to swap (interchange) the number between A and B.
