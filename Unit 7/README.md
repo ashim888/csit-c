@@ -32,6 +32,9 @@ term: 13).
 6.	WAP to find the sum of Natural number up to 10 using recursion. 
 7.	WAP in C to ask a number and Power to be calculated for that number. 
 
+
+EXAMPLE
+========================================================
 ###C Program to Display Prime Numbers Between Intervals Using User-defined Function###
 ```
 #include<stdio.h>
@@ -61,8 +64,8 @@ int check_prime(int num) /* User-defined function to check prime number*/
    return flag;
 }
 ```
-###C Program to Check Prime and Armstrong Number by Making Function
-(Armstrong Numbers: 0,1,153,370,371,407 etc)###
+###C Program to Check Prime and Armstrong Number by Making Function###
+*(Armstrong Numbers: 0,1,153,370,371,407 etc)*
 ```
 /* C program to check either prime number or Armstrong number depending upon the data entered by user. */
 #include <stdio.h>
