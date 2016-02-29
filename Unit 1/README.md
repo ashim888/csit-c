@@ -1,0 +1,1 @@
+![Image of Slide](http://www.slideshare.net/AshimLamichhane/unit-1-problem-solving-with-computer)
