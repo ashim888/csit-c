@@ -37,7 +37,9 @@ UNIT 6
 | 98 | 88 | 186 |
 | 100 | 92 |  |
 
+
 ###Arrays and Strings:###
+
 1.	WAP in C to initialize any 10 value in an array and display them. 
 
 2.	WAP to input any 10 number by user and display them. 
@@ -57,14 +59,16 @@ out their sum and display them.
 
 ![alt text](https://github.com/ashim888/ccodes/blob/master/Unit%206/image.png)
 
-###Arrays and Strings:
+
+###Arrays and Strings###
 1.	Write a Program in C to input any 10 elements in an array and display them using function. (Passing individual array element).
 
 2.	Write a program in c to input any 10 number in an array and sort them in ascending order using function. (Pass Whole array). 
 
 3.	Write a program in c to input any 10 number in an array and sort them in descending order using function. (Pass Whole array).
 
-###Character array and String:### 
+
+###Character array and String### 
 1.	WAP to input and output of String using Scanf() and Printf(). 
 
 2.	WAP to input and output of String using gets() and Puts(). 

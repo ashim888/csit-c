@@ -11,7 +11,7 @@ int main()
 
      /* I’m reading the address of variable num and 
       * storing it in pointer pr2*/
-     pr2 = #
+     pr2 = &num;
 
      /* storing the address of pointer pr2 into another pointer pr1*/
      pr1 = &pr2;
@@ -22,21 +22,21 @@ int main()
      printf("\n Value of num using pr1 is: %d", **pr1);
 
      /*Possible ways to find address of num*/
-     printf("\n Address of num is: %u", &num);
-     printf("\n Address of num using pr2 is: %u", pr2);
-     printf("\n Address of num using pr1 is: %u", *pr1);
+     printf("\n Address of num is: %p", &num);
+     printf("\n Address of num using pr2 is: %p", pr2);
+     printf("\n Address of num using pr1 is: %p", *pr1);
 
      /*Find value of pointer*/
-     printf("\n Value of Pointer pr2 is: %u", pr2);
-     printf("\n Value of Pointer pr2 using pr1 is: %u", *pr1);
+     printf("\n Value of Pointer pr2 is: %p", pr2);
+     printf("\n Value of Pointer pr2 using pr1 is: %p", *pr1);
 
      /*Ways to find address of pointer*/
-     printf("\n Address of Pointer pr2 is:%u",&pr2);
-     printf("\n Address of Pointer pr2 using pr1 is:%u",*pr1);
+     printf("\n Address of Pointer pr2 is:%p",&pr2);
+     printf("\n Address of Pointer pr2 using pr1 is:%p",*pr1);
 
      /*Double pointer value and address*/
-     printf("\n Value of Pointer pr1 is:%u",pr1);
-     printf("\n Address of Pointer pr1 is:%u",&pr1);
+     printf("\n Value of Pointer pr1 is:%p",pr1);
+     printf("\n Address of Pointer pr1 is:%p\n",&pr1);
 
      return 0;
 }
