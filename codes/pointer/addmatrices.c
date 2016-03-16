@@ -7,9 +7,10 @@
 int main(){
 	int (*a)[n]=malloc(sizeof(*a) * m);
 	int (*x)[n]=malloc(sizeof(*b) * m);
-	int sum[m][n]=malloc(sizeof(*sum) * m);;
+	int (*sum)[n]=malloc(sizeof(*sum) * m);;
 	// int a[m][n];
 	// int x[m][n];
+	// int sum[m][n];
 	int i,j;
 	
 	printf("Enter first matrix:\n");
