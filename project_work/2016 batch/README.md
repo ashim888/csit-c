@@ -39,6 +39,37 @@ Bishal oli
 
 Drona kc
 
+###Marks Sheet Management System
+--------------------------------------------------------
+Aliza
+
+Bigyaa
+
+Kiran
+
+Kushal 
 
 
+###library management System
+--------------------------------------------------------
+Sanjog Paudel
+
+Kushal Sharma 
+
+Vishwa Bandu Adhikari 
+
+Ankit Karki
+
+###Hospital patient record system
+--------------------------------------------------------
+Kuber
+
+Bibhushan
+
+Sagar
+
+Sabin
+
+###Student Attendance System
+Nirakar Phuyal
 
