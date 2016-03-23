@@ -1,5 +1,8 @@
 ASSIGNMENT
 ========================================================
+
+[![Image of Slide](http://image.slidesharecdn.com/functions-160229095817/95/unit-7-functions-1-638.jpg?cb=1456764314)](http://www.slideshare.net/AshimLamichhane/unit-7-functions)
+
 ###Functions###
 1. Write a Program in C to input a number and find whether the number is exactly divisible by 5 and 7 or not using functions: 
 	+	No return no argument 

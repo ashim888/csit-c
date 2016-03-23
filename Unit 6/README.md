@@ -1,5 +1,7 @@
 UNIT 6
 ========================================================
+[![Image of Slide](http://image.slidesharecdn.com/unit6arrays-160229095654/95/unit-6-arrays-1-638.jpg?cb=1456764378)](http://www.slideshare.net/AshimLamichhane/unit-6-arrays)
+
 ###Theoretical Assignment###
 
 1.	Explain in detail about storage class. Write in detail about 4 different storage class.
