@@ -5,7 +5,7 @@ and returns a newly created array that contains those n float values in reverse 
 #include <stdio.h>
 #include <stdlib.h>
 
-float reverse(float *addr,int n); 
+float reverse(float *addr,int n);
 
 int main(){
     int size;
@@ -16,7 +16,7 @@ int main(){
     
     //declaring the size of an array
     float *myarr=(float *)malloc(sizeof(float) * size);
-    float *catcharray=(float *)malloc(sizeof(float) * size);
+    // float *catcharray=(float *)malloc(sizeof(float) * size);
 
     //take input from user
     for(int i=0;i<size;i++){
