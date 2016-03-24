@@ -83,6 +83,12 @@ Ishwor Karki
 --------------------------------------------------------
 Nirakar Phuyal
 
+Sandip rana magar
+
+Saugat timsina
+
+Ashma Shrestha
+
 ###Hotel booking management system
 --------------------------------------------------------
 Arogya Rijal
