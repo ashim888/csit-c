@@ -1,3 +1,7 @@
+// Q no 8. BSCcsit 2066 
+/* Write a function that is passed an array of n pointers to floats 
+and returns a newly created array that contains those n float values in reverse order. */
+
 #include <stdio.h>
 #include <stdlib.h>
 // #define m 7
@@ -19,8 +23,8 @@ int main() {
         scanf("%f",&arr[i]);
     }
     printf("THE REVERSE ORDER IS:\n");
-
     printf("index\t\tvalue\t\taddress\n");
+
     float *new_arr = returnArray(arr, size);
 
 	for(int i=0;i<size;i++){
