@@ -1,7 +1,7 @@
 [![Image of Slide](http://image.slidesharecdn.com/pointer-160323210326/95/pointers-1-638.jpg?cb=1458767097)](http://www.slideshare.net/AshimLamichhane/pointers-59955174)
 
-###Pointer Assignment###
-============================
+Pointer Assignment
+========================================================
 
 1. What is pointer and explain its applications. Write a program that uses pointers to copy an array of double.
 
