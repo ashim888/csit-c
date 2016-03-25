@@ -1,6 +1,6 @@
 // Write a program to sort 'n' numbers in ascending order using dynamic memory.
 #include <stdio.h>
-#include <stdlib.h>
+#include <stdlib.h> 
 
 void get(float *,int);
 void sort(float *,int);
