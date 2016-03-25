@@ -110,6 +110,3 @@ Aashish Rayamajhi
 
 Arvin K.C
 
-###Marksheet management System
---------------------------------------------------------
-Sakar Pudasaini
