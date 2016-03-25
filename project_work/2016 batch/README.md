@@ -1,5 +1,15 @@
 ###Morning
 
+###Student Attendance System
+--------------------------------------------------------
+Susan shrestha 
+
+Niraj nepal 
+
+Prakash kc 
+
+Anup dahal 
+
 ###Hospital Patient Record System
 --------------------------------------------------------
 UJJAL ACHARYA
@@ -31,7 +41,7 @@ Asmita joshi
 
 Posh raj dahal
 
-###department store billing system
+###Department store billing system
 --------------------------------------------------------
 Premi jimee
 
@@ -63,6 +73,7 @@ Kushal Sharma
 Vishwa Bandu Adhikari 
 
 Ankit Karki
+
 
 ###Hospital patient record system
 --------------------------------------------------------
