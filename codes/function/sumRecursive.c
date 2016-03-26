@@ -6,6 +6,7 @@ int natural(int n){
 	}
 	else{
 		return n+natural(n-1);
+
 	}
 }
 
