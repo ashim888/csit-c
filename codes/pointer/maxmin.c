@@ -10,14 +10,14 @@ int main(void){
 	scanf("%d",&n);
 	num=(int *)calloc(n,sizeof(int));
 	printf("Enter %d elements: ", n);
-	for (int i = 0; i < n; i++)
+	for(i = 0; i < n; i++)
 	{
 		scanf("%d",num+i);
 	}
 	max=*num;
 	min=*num;
 	// printf("max=%d min=%d\n",max,min );
-	for (int i = 0; i < n; i++)
+	for(i = 0; i < n; i++)
 	{
 		if(max < *(num+i)){
 			max=*(num+i);
