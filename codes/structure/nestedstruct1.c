@@ -20,7 +20,7 @@ int main()
 {
     struct student_detail stu_data = {1, "Raju", 90.5, 71145,
                                        "Anna University"};
-    printf("\n\n\n");                                          
+                                     
     printf(" Id is: %d \n", stu_data.id);
     printf(" Name is: %s \n", stu_data.name);
     printf(" Percentage is: %f \n", stu_data.percentage);
@@ -29,6 +29,6 @@ int main()
                     stu_data.clg_data.college_id);
     printf(" College Name is: %s \n", 
                     stu_data.clg_data.college_name);
-    printf("\n\n\n");    
+      
     return 0;
 }
