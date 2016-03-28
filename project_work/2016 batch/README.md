@@ -20,7 +20,7 @@ SUNIL BHUJEL
 
 SMRITI DHUNGEL
 
-###library management system
+###Marks Sheet Management System
 --------------------------------------------------------
 shishir shrestha
 
