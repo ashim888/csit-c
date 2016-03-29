@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
+
 void filewrite(){
 	FILE *fptr;
 
@@ -19,7 +20,7 @@ void fileread(){
 	char s[100];
 	fptr=fopen("/Users/ashim/Documents/colg/ccodes/codes/filehandling/test.txt","r");
 	if(fptr==NULL){
-		printf("\nFILE CANNOT BE CREATED");
+		printf("\nFILE CANNOT BE OPENED");
 		exit(0);
 	}
 	else{
@@ -31,6 +32,6 @@ void fileread(){
 }
 int main(){
 	filewrite();
-	fileread();
+	// fileread();
 
 }
