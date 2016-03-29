@@ -51,6 +51,16 @@ Bishal oli
 
 Drona kc
 
+###Hall ticketing management system
+--------------------------------------------------------
+Ajay Karki
+
+Rupesh Tripathi
+
+Bigyan Timsina
+
+Pramod Poudel
+
 ###DAY
 
 ###Marks Sheet Management System
