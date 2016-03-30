@@ -1,4 +1,4 @@
-## Project Report Guideline ##
+## Project Schedule ##
 
 ```
 * Initial Presentation - 11th April
@@ -7,6 +7,8 @@
 
 * Final Presentation - To Be Declared
 ```
+
+## Project Report Guideline ##
 
 ```
 * Title Page
