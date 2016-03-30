@@ -1,4 +1,13 @@
 ## Project Report Guideline ##
+
+```
+* Initial Presentation - 11th April
+
+* Project Progress Discussion - To Be Declared
+
+* Final Presentation - To Be Declared
+```
+
 ```
 * Title Page
 
