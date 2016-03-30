@@ -10,7 +10,7 @@ int main()
    int year;
    FILE * fp;
 
-   fp = fopen ("file.txt", "w+");
+   fp = fopen ("file.txt", "a+b");
    fputs("We are in 2012", fp);
    
    rewind(fp);

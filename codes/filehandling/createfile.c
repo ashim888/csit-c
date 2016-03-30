@@ -12,7 +12,7 @@ void filewrite(){
 	else{
 		printf("File has been successfully created\n");
 	}
-	fputs("Well this is the first file write",fptr);
+	fputs("Well this is the first file write\nWhat is this now",fptr);
 	fclose(fptr);
 }
 void fileread(){
