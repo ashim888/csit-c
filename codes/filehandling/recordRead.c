@@ -3,7 +3,7 @@
 
 int main(){
 	FILE *f;
-	int num[10],i;
+	int num[10];
 	f=fopen("read","rb");
    if(f==NULL){
       printf("FILE CAN NOT BE CREATED\n");
