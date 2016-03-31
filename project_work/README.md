@@ -1,7 +1,7 @@
 ## Project Schedule ##
 
 ```
-* Initial Presentation - 11th April
+* Initial Presentation - 11th April 8 AM
 
 * Project Progress Discussion - To Be Declared
 
