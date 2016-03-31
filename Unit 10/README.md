@@ -1,0 +1,1 @@
+[![Image of Slide](http://image.slidesharecdn.com/filesandfilehandlinginc-160330191730/95/unit-10-files-and-file-handling-in-c-1-638.jpg?cb=1459365805)](http://www.slideshare.net/AshimLamichhane/unit-10-files-and-file-handling-in-c)
