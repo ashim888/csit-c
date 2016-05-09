@@ -5,7 +5,12 @@
 
 * Project Progress Discussion - 10th May 
 
-* Final Presentation - 15th May
+* Final Presentation - 15th May, 7 am to 10 am
+    + For Presentation Order please do check https://github.com/ashim888/csit-c/tree/master/project_work/2016%20batch
+    + Please do wear formal dress
+    + Please do bring printed copy of your Project
+    + For further query do email me at ```ashim@kathcodex.com```
+
 ```
 
 ## Project Report Guideline ##
