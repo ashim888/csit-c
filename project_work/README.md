@@ -5,7 +5,7 @@
 
 * Project Progress Discussion - 10th May 
 
-* Final Presentation - 13th May
+* Final Presentation - 15th May
 ```
 
 ## Project Report Guideline ##
