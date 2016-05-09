@@ -3,9 +3,9 @@
 ```
 * Initial Presentation - 11th April 8 AM
 
-* Project Progress Discussion - To Be Declared
+* Project Progress Discussion - 10th May 
 
-* Final Presentation - To Be Declared
+* Final Presentation - 13th May
 ```
 
 ## Project Report Guideline ##
