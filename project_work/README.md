@@ -9,7 +9,7 @@
     + For Presentation Order please do check https://github.com/ashim888/csit-c/tree/master/project_work/2016%20batch
     + Please do wear formal dress
     + Please do bring printed copy of your Project
-    + For further query do email me at ```ashim@kathcodex.com```
+    + For further query do email me at ashim@kathcodex.com
 
 ```
 
