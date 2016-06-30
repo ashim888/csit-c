@@ -6,7 +6,9 @@ long int factorial(int i) {
 		return i * factorial(i - 1); 
 } 
 int main() { 
-int i = 5; 
+int i; 
+printf("Enter any Number: \n");
+scanf("%d",&i);
 printf("Factorial of %d is %ld\n", i, factorial(i)); 
 return 0; 
 }

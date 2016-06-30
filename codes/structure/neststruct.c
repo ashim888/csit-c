@@ -19,7 +19,7 @@ int main()
 printf("\nEmployee Name   : %s",emp.ename);  
 printf("\nEmployee SSN    : %d",emp.id);  
 printf("\nEmployee Salary : %f",emp.salary);  
-printf("\nEmployee DOJ    : %d/%d/%d", \
+printf("\nEmployee DOB    : %d/%d/%d", \
          emp.doj.date,emp.doj.month,emp.doj.year);  
 printf("\n\n\n");    
 return 0;
