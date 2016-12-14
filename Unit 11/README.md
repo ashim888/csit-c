@@ -1,1 +1,0 @@
-[![Image of Slide](http://image.slidesharecdn.com/graphics-160331210312/95/unit-11-graphics-1-638.jpg?cb=1459458298)](http://www.ashimlamichhane.com.np/2016/08/unit-11-introduction-to-graphics/)
