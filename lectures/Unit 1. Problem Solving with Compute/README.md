@@ -1,0 +1,1 @@
+[![Image of Slide](http://image.slidesharecdn.com/chapter1copy-160229094610/95/unit-1-problem-solving-with-computer-1-638.jpg?cb=1456739548)](http://www.ashimlamichhane.com.np/2016/08/unit-1-problem-solving-with-computer/)
