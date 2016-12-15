@@ -8,6 +8,9 @@
 
 • Each Assignment now will have Missing Gap as a topic which you should research on internet or Text Books
 
-• Morning Students upload/email your assignments to <TO BE DISCLOSED>
+• Morning Students upload/email your assignments to "TO BE DISCLOSED"
 
-• Day Students upload/email your assignments to <TO BE DISCLOSED>
+• Day Students upload/email your assignments to "TO BE DISCLOSED"
+
+
+• Note: At this stage in your education you are responsible for your own work; I will not accept any excuses for plagiarism regardless of your intention.
