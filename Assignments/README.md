@@ -12,5 +12,6 @@
 
 • Day Students upload/email your assignments to "TO BE DISCLOSED"
 
+• If there's any problem regarding assignments please don't hesitate to email me punchedrock@gmail.com
 
 • Note: At this stage in your education you are responsible for your own work; I will not accept any excuses for plagiarism regardless of your intention.
