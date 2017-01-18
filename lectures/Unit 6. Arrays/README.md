@@ -60,7 +60,7 @@ out their sum and display them.
 
 8.	WAP to input any 5 elements in an array and print them in reverse order too. 
 
-![alt text](https://github.com/ashim888/ccodes/blob/master/Unit%206/image.png)
+![alt text](https://github.com/ashim888/csit-c/blob/master/lectures/Unit%206.%20Arrays/image.png)
 
 
 ###Arrays and Strings###
