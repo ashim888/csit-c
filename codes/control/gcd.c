@@ -1,5 +1,4 @@
 /*
-
 @author: Ashim Lamichhane
 PROGRAM: TO FINDOUT ALL THE DIVISOR OF ANY NUMBER
 Algorithm:

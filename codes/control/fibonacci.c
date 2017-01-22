@@ -2,7 +2,6 @@
 @author: Ashim Lamichhane
 PROGRAM: TO FINDOUT FIBONACCI SERIES
 */
-
 #include <stdio.h>
 
 int main(){
