@@ -72,7 +72,7 @@ out their sum and display them.
 3.	Write a program in c to input any 10 number in an array and sort them in descending order using function. (Pass Whole array).
 
 
-###Character array and String### 
+###Character array and String
 1.	WAP to input and output of String using Scanf() and Printf(). 
 
 2.	WAP to input and output of String using gets() and Puts(). 
