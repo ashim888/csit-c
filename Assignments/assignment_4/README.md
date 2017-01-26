@@ -29,21 +29,11 @@ DEADLINE 27th January,2017
 
 4.	WAP to merge two sorted arrays in another array in a sorted order.
 
-5.	WAP to input any 10 numbers in an array and find out the Maximum and Minimum Value.
+5.	WAP to find transpose of a given Matrix
 
-6.	WAP in C to input any 10 numbers in an array and search an element. 
+6.	Write a program to read a string and search a specified word in given string. (use function strstr() ) 
 
-7.	WAP in C to input 10 numbers and find out even and odd. After finding, please do add odd numbers only and even numbers only separately and display it.
-
-8.	WAP to find transpose of a given Matrix
-
-9.	WAP to find whether the given string is palindrome or not. 
-
-10.	WAP to input a string and convert it into upper case and vice versa. 
-
-11.	Write a program to read a string and search a specified word in given string. (use function strstr() ) 
-
-12.	WAP in C to take input M*N from user and find a row sum and column sum
+7.	WAP in C to take input M*N from user and find a row sum and column sum
 
 ###Eg:
 |    |    |    |
