@@ -56,11 +56,9 @@ out their sum and display them.
 
 5.	WAP in C to input any 10 numbers in an array and search an element. 
 
-6.	WAP to input any 10 numbers in an array and find out the Maximum and Minimum Value.
+6.	WAP to input any 10 numbers in an array and find out the Maximum and Minimum Value. 
 
-7.	WAP in C to convert decimal number to Binary, Octal, and Hexadecimal using array. 
-
-8.	WAP to input any 5 elements in an array and print them in reverse order too. 
+7.	WAP to input any 5 elements in an array and print them in reverse order too. 
 
 ![alt text](https://github.com/ashim888/csit-c/blob/master/lectures/Unit%206.%20Arrays/image.png)
 
@@ -72,7 +70,7 @@ out their sum and display them.
 
 3.	WAP to input and output of Character array using getchar() and Putchar(). 
 
-4.	WAP to input and string and find out the length of string using strlen() and without 
+4.	WAP to input a string and find out the length of string using strlen() and without 
 using strlen(). 
 
 5.	WAP to copy a string from one to another using strcpy() and without using strcpy(). 
