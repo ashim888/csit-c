@@ -1,6 +1,6 @@
 ###ASSIGNMENT IV
 
-DEADLINE 27th January,2017
+DEADLINE 1st February,2017
 ---------------------------
 
 ###Theoretical Assignment###
