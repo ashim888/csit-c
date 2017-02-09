@@ -3,7 +3,6 @@ ASSIGNMENT
 
 [![Image of Slide](http://image.slidesharecdn.com/functions-160229095817/95/unit-7-functions-1-638.jpg?cb=1456764314)](http://www.ashimlamichhane.com.np/2016/08/unit-7-functions/)
 
-
 EXAMPLE
 ========================================================
 ###C Program to Display Prime Numbers Between Intervals Using User-defined Function###
