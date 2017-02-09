@@ -1,5 +1,6 @@
 #include <stdio.h>
 
+// Global Variable Declaration
 char s[10];
 
 char* without_an_argument()	// OR char return_and_pass(char *s)
@@ -9,7 +10,7 @@ char* without_an_argument()	// OR char return_and_pass(char *s)
 	return s;
 }
 
-char* passing_an_argument(char *s){
+char* with_an_argument(char *s){
 	printf("Enter Your Name: ");
 	scanf("%s",s);
 	return s;	
@@ -18,7 +19,7 @@ char* passing_an_argument(char *s){
 void call_with_argument(){
 	char *c;
 	char d[10];
-	c=passing_an_argument(d);
+	c=with_an_argument(d);
 	printf("The Name is %s\n",c);
 }
 
