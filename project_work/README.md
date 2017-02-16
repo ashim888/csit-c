@@ -1,15 +1,17 @@
 ## Project Schedule ##
 
 ```
-* Initial Presentation - 5th March 8 AM
+* Initial Presentation - 24th February
 
 * Project Progress Discussion - TBD
 
 * Final Presentation - TBD
-    + For Presentation Order please do check https://github.com/ashim888/csit-c/tree/master/project_work/2016%20batch
+    + Presentation Order : TBD
     + Please do wear formal dress
+	+ MALE (Shirt,Pant etc)
+	+ FEMALE (Kurta,Saree etc) 
     + Please do bring printed copy of your Project
-    + For further query do email me at ashim@kathcodex.com
+    + For further query do email me at punchedrock@gmail.com
 
 ```
 
