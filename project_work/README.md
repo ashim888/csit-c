@@ -1,7 +1,7 @@
 ## Project Schedule ##
 
 ```
-* Initial Presentation - 24th February
+* Initial Presentation - 23rd February
 
 * Project Progress Discussion - TBD
 
@@ -69,4 +69,6 @@
 10. Insurance policy Management System
 11. Bank Loan Management System
 12. Hospital Patient Record System
+13. Tic Tac Toe
+14. 4 pic one word resolver
 ```
