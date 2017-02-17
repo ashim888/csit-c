@@ -2,57 +2,73 @@
 
 ###Student Attendance System
 --------------------------------------------------------
-<NAME>
+Ajit Poudel
 
-<NAME>
+Jyotindra Subedi
 
-<NAME>
+Prasuna Mudawari
 
-<NAME>
+Sunil Thapa
 
 ###Hospital Patient Record System
 --------------------------------------------------------
+Sujit Manandhar
+
+Gupta Bahadur Chhetri
+
+Bibek Khatiwada
+
+Samrat Kafle
+
+###Tic tac Toe
+--------------------------------------------------------
+Kshitiz Regmi
+
+Binita K.C.
+
+Birendra Kumar Thapaliya
+
+Poojan Bade
+
+###Movie Hall ticketing System
+--------------------------------------------------------
+Pabitra Pantha
+
+Rochak Pandey
+
+Sudip Karki
+
+Allen Nembang
 
 
-###Marks Sheet Management System
+###<TBD>
 --------------------------------------------------------
 
 
-###Bank loan management system
---------------------------------------------------------
-
-###Department store billing system
---------------------------------------------------------
-
-
-
-###Hall ticketing management system
+###<TBD>
 --------------------------------------------------------
 
 
 ###DAY
 
-###Marks Sheet Management System
+###<TBD>
 --------------------------------------------------------
 
 
+###<TBD>
+--------------------------------------------------------
 
-###library management System
+###<TBD>
 --------------------------------------------------------
 
 
+###<TBD>
+--------------------------------------------------------
 
-###Hospital patient record system
+###<TBD>
 --------------------------------------------------------
 
 
-###Movie hall ticketing system
+###<TBD>
 --------------------------------------------------------
 
-
-###Student Attendance System
---------------------------------------------------------
-
-
-###Hotel booking management system
---------------------------------------------------------
