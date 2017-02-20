@@ -51,7 +51,7 @@ Allen Nembang
 
 ###DAY
 
-###<TBD>
+###Tic Tac Toe
 --------------------------------------------------------
 Bishal Marasaini
 
@@ -91,7 +91,7 @@ Aeliya Tamang
 
 Suman Rijal
 
-###<TBD>
+###Library Management System
 --------------------------------------------------------
 Sujan Basnet
 
