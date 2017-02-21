@@ -41,13 +41,25 @@ Sudip Karki
 Allen Nembang
 
 
-###<TBD>
+###4 Pic one word resolver
 --------------------------------------------------------
+Saroj Paudel
 
+Rabin Shrestha
 
-###<TBD>
+Janam Khatiwada
+
+Mahesh Aryal
+
+###Hotel Booking Management System
 --------------------------------------------------------
+Raju Bhattrai
 
+Srijan Shingh Rimal
+
+Rupesh Pandit
+
+Junu Chaulagain
 
 ###DAY
 
@@ -61,7 +73,8 @@ Rojen Shrestha
 
 Surendra Shrestha
 
-### 4 pic one word resolver
+
+###4 pic one word resolver
 --------------------------------------------------------
 Prasidha Acharya
 
@@ -70,6 +83,7 @@ Anil Banskota
 Manish Kumar yadav
 
 Nabin Silwal
+
 
 ###Bank Loan Management System
 --------------------------------------------------------
@@ -81,6 +95,7 @@ Mukesh Mahara
 
 Biswas Dhakal
 
+
 ###Student Database Management System
 --------------------------------------------------------
 Kiran Gajurel
@@ -91,6 +106,7 @@ Aeliya Tamang
 
 Suman Rijal
 
+
 ###Library Management System
 --------------------------------------------------------
 Sujan Basnet
@@ -100,6 +116,7 @@ Mina Prajapati
 Sandhya Ghimire
 
 Sajan Dhakal
+
 
 ###Student Attendance System
 --------------------------------------------------------
