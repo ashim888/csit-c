@@ -43,7 +43,7 @@ Allen Nembang
 
 ###4 Pic one word resolver
 --------------------------------------------------------
-Saroj Paudel
+Saroj Poudel
 
 Rabin Shrestha
 
@@ -53,9 +53,9 @@ Mahesh Aryal
 
 ###Hotel Booking Management System
 --------------------------------------------------------
-Raju Bhattrai
+Raju Bhattarai
 
-Srijan Shingh Rimal
+Srijan Singh Rimal
 
 Rupesh Pandit
 
