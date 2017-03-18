@@ -1,4 +1,5 @@
-###ASSIGNMENT VIII
+####ASSIGNMENT VIII
+
 
 DEADLINE 24th March,2017
 ---------------------------
@@ -9,4 +10,4 @@ I've provided previous questions [Click Me](http://www.ashimlamichhane.com.np/20
 
 
 
-NOTE: This assignment has two weeks of time and I expect each and every one to submit it in a written form in A4 size paper. If anyone fails to complete this assignment they would have to talk to the co-ordinator or student service department.
+NOTE: I expect each and every one to submit it in a written form in A4 size paper. If anyone fails to complete this assignment they would have to talk to the co-ordinator or student service department.
