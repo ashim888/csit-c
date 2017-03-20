@@ -1,0 +1,4 @@
+Name = ram
+Roll = 33
+Address = baneshwor
+Marks = 33.000000
