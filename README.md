@@ -20,7 +20,7 @@ Course Title: Fundamentals of Computer Programming
 ___Course Synopsis:   This course contains the concepts of programming methodology using C.___
 ___Goal: This course is designed to familiarize students to the techniques of programming in C.___
 
-###Course Contents:
+## Course Contents:
 | Unit   |  Hours  | Description   |
 |----|----|----|
 |1. Problem Solving with Computer |  2 Hrs  |   Problem analysis, Algorithms and Flowchart, Coding, Compilation and Execution, History of C, Structure of C program, Debugging, Testing and Documentation |
@@ -35,7 +35,7 @@ ___Goal: This course is designed to familiarize students to the techniques of pr
 |  10. Files and file handling in C  |  4 Hrs.  |  Concept of file, Opening and closing of file, Modes, Input/ output function, Random access in file, Printing a file  |
 |  11. Introduction to Graphics  |  3 Hrs.  |  Modes, Initialization, Graphics Function  |
 
-####Laboratory works: 
+## Laboratory works: 
 ```
 This course requires a lot of programming practices. Each topic must be followed by a practical session. Some practical sessions include programming to:
 • Create, compile and run simple C programs, handle different data types available in C, perform arithmetic operations in C, perform formatted input and out put operations, perform character input and output operations.
@@ -43,7 +43,7 @@ This course requires a lot of programming practices. Each topic must be followed
 • Create user-defined factions, create recursive functions, work with automatic, global and static variables, create, manipulate arrays and matrices (single and multi-dimensional), work with pointes, dynamically allocate de-allocate storage space during runtime, manipulate strings (character arrays) using various string handling functions.
 • Create and use structures and files to keep record of students, employees etc
 ````
-####References:
+## References:
 ````
 1.	Deitel, C.: How to Program, 2/e (With CD), Pearson Education.
 2.	Al Kelley, Ira Pohl: "A Book on C", Pearson Education.
