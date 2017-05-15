@@ -3,10 +3,7 @@
 ```
 * Initial Presentation - 23rd February
 
-* Project Progress Discussion - TBD
-
-* Final Presentation - TBD
-    + Presentation Order : TBD
+* Final Presentation - 28th May
     + Please do wear formal dress
 	+ MALE (Shirt,Pant etc)
 	+ FEMALE (Kurta,Saree etc) 
