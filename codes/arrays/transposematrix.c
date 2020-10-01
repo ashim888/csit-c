@@ -25,9 +25,9 @@ int main()
       
    printf("\n\nTranspose of entered matrix :-\n");
  
-   for (d = 0; d < m; d++) {
-      for (c = 0; c< n; c++)
-         printf("%d\t",matrix[c][d]);
+   for (c = 0; c < n; c++) {
+      for (d = 0; d< m; d++)
+         printf("%d\t",matrix[d][c]);
       printf("\n");
    }
  
