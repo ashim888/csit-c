@@ -1,7 +1,5 @@
 ###ASSIGNMENT VII
 
-DEADLINE 20th March,2017
----------------------------
 
 Complete question number 1 to 8 from all the previous questions from 2065-2071, if possible collect the question paper from 2072 as well and try to solve it. 
 

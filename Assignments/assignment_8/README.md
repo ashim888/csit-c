@@ -1,7 +1,5 @@
 ASSIGNMENT VIII
 
-DEADLINE 20th March,2017
----------------------------
 
 Complete question number 9 and 10 (include both question if there's OR given) from all the previous questions from 2065-2071, if possible collect the question paper from 2072 as well and try to solve it. 
 

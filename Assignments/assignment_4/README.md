@@ -1,7 +1,4 @@
-###ASSIGNMENT IV
-
-DEADLINE 1st February,2017
----------------------------
+# ASSIGNMENT IV
 
 ###Theoretical Assignment###
 
@@ -64,11 +61,11 @@ out their sum and display them.
 
 
 ###Character array and String
-1.	WAP to input and output of String using Scanf() and Printf(). 
+1.	WAP to input and output of String using scanf() and printf(). 
 
-2.	WAP to input and output of String using gets() and Puts(). 
+2.	WAP to input and output of String using gets() and puts(). 
 
-3.	WAP to input and output of Character array using getchar() and Putchar(). 
+3.	WAP to input and output of Character array using getchar() and putchar(). 
 
 4.	WAP to input a string and find out the length of string using strlen() and without 
 using strlen(). 

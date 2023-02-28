@@ -1,7 +1,4 @@
-###ASSIGNMENT II
-
-DEADLINE 29rd December,2016
----------------------------
+# ASSIGNMENT II
 
 1.	Write short notes Signed and Unsigned short Integers.
 2.	Write short notes Signed and Unsigned long Integers.

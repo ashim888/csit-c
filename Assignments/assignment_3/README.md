@@ -1,7 +1,4 @@
-###ASSIGNMENT III
-
-DEADLINE 16th January,2017
----------------------------
+# ASSIGNMENT III
 
 1.	WAP to display Sum of two numbers
 2.	WAP to display if the number is positive or negative

@@ -1,7 +1,5 @@
-###ASSIGNMENT VI
+# ASSIGNMENT VI
 
-DEADLINE 13th March,2017
----------------------------
 
 1. What is pointer and explain its applications. Write a program that uses pointers to copy an array of double.
 

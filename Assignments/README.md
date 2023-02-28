@@ -1,4 +1,4 @@
-###NOTE
+# NOTE
 
 • Check specific folders for specific assignment
 

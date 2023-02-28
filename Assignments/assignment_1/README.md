@@ -1,7 +1,5 @@
-###ASSIGNMENT I
+# ASSIGNMENT I
 
-DEADLINE 23rd December,2016
----------------------------
 
 1.	Write an algorithm and flowchart to display Sum of two numbers
 2.	Write an algorithm and flowchart to display if the number is positive or negative
