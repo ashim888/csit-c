@@ -1,5 +1,5 @@
 #include<stdio.h>
-// prime number less tha   500
+// prime number less than  500
 int prime()
 {
 	int i,j;
