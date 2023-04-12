@@ -29,8 +29,6 @@ int main(void) {
     else {
         printf("%s is a palindrome\n", string1);
     }
-
-    return 0;
 }
 
 
@@ -39,5 +37,4 @@ int main(void) {
 2.added a statement to calculate the length of the string using strlen.
 3.changed the loop condition to i < length.
 4.changed the comparison in the loop to string1[length - i - 1].
-5.added a return 0 statement at the end of main.
 */
