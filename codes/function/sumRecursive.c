@@ -12,7 +12,7 @@ int natural(int n){
 
 int main(void){
 	int n;
-	printf("ENTER ANy Number:\t");
+	printf("Enter Any Number:\t");
 	scanf("%d",&n);
 	printf("The sum of %d natural numbers is %d\n",n,natural(n) );
 }
