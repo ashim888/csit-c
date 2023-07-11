@@ -16,7 +16,7 @@ int main(void) {
 
     length = strlen(string1);
 
-    for(i = 0; i < length; i++) {
+    for(i = 0; i < length / 2; i++) {
         if(string1[i] != string1[length - i - 1]) {
             flag = 1;
             break;
@@ -31,10 +31,3 @@ int main(void) {
     }
 }
 
-
-/* edits made:
-1.initialized flag to 0 in the same line it was declared.
-2.added a statement to calculate the length of the string using strlen.
-3.changed the loop condition to i < length.
-4.changed the comparison in the loop to string1[length - i - 1].
-*/
