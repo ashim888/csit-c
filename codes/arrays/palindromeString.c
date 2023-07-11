@@ -8,8 +8,8 @@ http://www.w3schools.in/c/program/check-palindrome-string/
 #include<string.h>
 
 int main(void) {
-    char string1[20];
-    int i, length, flag = 0;
+    char string1[20], *answer_str = "";
+    int i, length;
 
     printf("Enter a string:");
     scanf("%s", string1);
@@ -18,16 +18,11 @@ int main(void) {
 
     for(i = 0; i < length / 2; i++) {
         if(string1[i] != string1[length - i - 1]) {
-            flag = 1;
+            answer_str = "not ";
             break;
         }
     }
 
-    if(flag) {
-        printf("%s is not a palindrome\n", string1);
-    }    
-    else {
-        printf("%s is a palindrome\n", string1);
-    }
+    printf("%s is %sa palindrome\n", string1, answer_str);
 }
 
