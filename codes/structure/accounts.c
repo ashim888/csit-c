@@ -1,46 +1,42 @@
 #include <stdio.h>
 
-struct account {                  // Account Structure
-	int id;
-	int money;
-	char name[30];
-};
+typedef struct {
+    int id;
+    int money;
+    char name[30];
+} Account;
 
-int number;
-
-
-void main() {
-	int id,x,input_money;
-	char name[50];
-	struct account accountarray[50];
-	
-	printf("How many Number of accounts do you want to enter? ");
-	scanf("%d",&x);
-	printf("--Make Account--\n");
-	for (int i = 0; i < x; i++)
-	{
-		
-		printf("Input ID : ");
-		scanf("%d", &accountarray[i].id);
-		printf("Insert Money : ");
-		scanf("%d", &accountarray[i].money);
-		printf("Your Name? : ");
-		scanf("%s", accountarray[i].name);
-		printf("\n");
-	}
-	printf("****RECORD INSERTED****\n");
-	for (int i = 0; i < x; i++)
-	{
-		printf("\nID: %d",accountarray[i].id);
-		printf("\nNAME: %s",accountarray[i].name);
-		printf("\nMONEY: %d",accountarray[i].money);
-		
-		
-	}
-	
-
-	// accountarray[number++] = NULL;                // I think there's a problem in this side
-	// accountarray[number++]->id = id;
-	// accountarray[number++]->money = input_money;
-	// *accountarray[number++]->name = name;
+int main() {
+    int num_accounts;
+    
+    printf("How many accounts do you want to create? ");
+    scanf("%d", &num_accounts);
+    
+    Account account_array[num_accounts];
+    
+    printf("-- Create Accounts --\n");
+    for (int i = 0; i < num_accounts; i++) {
+        printf("Account #%d:\n", i + 1);
+        printf("Enter ID: ");
+        scanf("%d", &account_array[i].id);
+        printf("Enter Money: ");
+        scanf("%d", &account_array[i].money);
+        printf("Enter Name: ");
+        scanf("%s", account_array[i].name);
+        printf("\n");
+    }
+    
+    printf("**** RECORDS INSERTED ****\n");
+    for (int i = 0; i < num_accounts; i++) {
+        printf("Account #%d:\n", i + 1);
+        printf("ID: %d\n", account_array[i].id);
+        printf("Name: %s\n", account_array[i].name);
+        printf("Money: %d\n\n", account_array[i].money);
+    }
+    
+    return 0;
 }
+
+/* edits made:
+the number variable and the id, input_money, and name variables have been removed since they were not being used.
+the number of accounts is read from the user and used to declare the array size */
