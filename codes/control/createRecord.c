@@ -29,7 +29,7 @@ void mychoice(){
 	case 1 : 
 		// printf("y pressed\n");
 		create_record();
-		// break;
+		break;
 	case 2 : 
 		printf("Pressed 2\n");
 		break;
@@ -52,7 +52,7 @@ void create_record()
 {
 	int roll,it,c,prob,stat,cal;
 	float total,per;
-	char name[20],grade,sign='%',choice;
+	char name[20],grade,sign='%';
 	printf("\n\n\t*********************************************************");
 	printf("\n\t*\t\t\t\t\t\t\t*");
 	printf("\n\t*\t\t CREATE NEW RECORD \t\t\t*");
