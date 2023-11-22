@@ -1,7 +1,13 @@
 #include<stdio.h>
 #include<stdlib.h>
+
 void create_record();
+
 void mychoice();
+
+char calc_grade(int per);
+
+char *format_grade_message(char grade);
 
 int main(void)
 {	
@@ -29,7 +35,7 @@ void mychoice(){
 	case 1 : 
 		// printf("y pressed\n");
 		create_record();
-		// break;
+		break;
 	case 2 : 
 		printf("Pressed 2\n");
 		break;
@@ -52,7 +58,7 @@ void create_record()
 {
 	int roll,it,c,prob,stat,cal;
 	float total,per;
-	char name[20],grade,sign='%',choice;
+	char name[20],grade,sign='%';
 	printf("\n\n\t*********************************************************");
 	printf("\n\t*\t\t\t\t\t\t\t*");
 	printf("\n\t*\t\t CREATE NEW RECORD \t\t\t*");
@@ -84,29 +90,38 @@ void create_record()
 	printf("\n\t*\t\t\t\t\t\t\t*");
 	printf("\n\t*\tPercentage = %f",per);printf("%c",sign);
 	printf("\n\t*\t\t\t\t\t\t\t*");
-	if(per>=80)
+	grade = calc_grade(per);
+	printf("\n\t*\tGrade = %c", grade);
+	printf("\n\t*\t\t\t%s !!! ", format_grade_message(grade));
+}
+
+char calc_grade(int per)
+{
+	if (per >= 80)
+		return 'A';
+	else if (per >= 60)
+		return 'B';
+	else if (per >= 45)
+		return 'C';
+	else if (per >= 35)
+		return 'D';
+	else
+		return 'E';
+}
+
+char *format_grade_message(char grade)
+{
+	switch (grade)
 	{
-		printf("\n\t*\tGrade = A");
-		printf("\n\t*\t\tDISTINCTION !!! ");
-	}
-	if(per>=60 && per<80)
-	{
-		printf("\n\t*\tGrade = B");
-		printf("\n\t*\t\tFIRST DIVISION !!! ");
-	}
-	if(per>=45 && per<60)
-	{
-		printf("\n\t*\tGrade = C");
-		printf("\n\t*\t\tSECOND DIVISION !!! ");
-	}
-	if(per>=35 && per<45)
-	{
-		printf("\n\t*\tGrade = D");
-		printf("\n\t*\t\t\tTHIRD DIVISION !!! ");
-	}
-	if(per<35)
-	{
-		printf("\n\t*\tGrade = E");
-		printf("\n\t*\t\tFail !!! ");
+	case 'A' :
+		return "DISTINCTION";
+	case 'B' :
+		return "FIRST DIVISION";
+	case 'C' :
+		return "SECOND DIVISION";
+	case 'D' :
+		return "THIRD DIVISION";
+	default :
+		return "Fail";
 	}
 }
